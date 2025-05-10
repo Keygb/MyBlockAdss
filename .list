@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,mail.me.com,DIRECT
 DOMAIN-SUFFIX,mail.icloud.com.cn,DIRECT
 DOMAIN-SUFFIX,apps.apple.com,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
-host, p14-buy.itunes.apple.com, 欧盟节点
+host, p14-buy.itunes.apple.com, 香港节点
 #TikTok
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com,DIRECT
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com,DIRECT
