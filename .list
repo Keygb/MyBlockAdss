@@ -1,15 +1,5 @@
-#Apple
-DOMAIN,appleid.apple.com,DIRECT
-DOMAIN,gsa.apple.com,DIRECT
-DOMAIN,idmsa.apple.com,DIRECT
-DOMAIN,appleid.cdn-apple.com,DIRECT
-DOMAIN,itunes.apple.com,DIRECT
-DOMAIN,ppq.apple.com,DIRECT
-DOMAIN-SUFFIX,mail.me.com,DIRECT
-DOMAIN-SUFFIX,mail.icloud.com.cn,DIRECT
-DOMAIN-SUFFIX,apps.apple.com,DIRECT
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
-host, p14-buy.itunes.apple.com, 香港节点
+#App store
+host,p14-buy.itunes.apple.com,proxy
 #WeChat
 DOMAIN,btrace.qq.com,DIRECT
 DOMAIN,dldir1.qq.com,DIRECT
