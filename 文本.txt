@@ -1,2 +1,0 @@
-#App store
-host,p14-buy.itunes.apple.com,proxy
