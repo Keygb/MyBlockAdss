@@ -1,0 +1,32 @@
+#TikTok
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com,香港节点
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com,香港节点
+DOMAIN,p16-tiktokcdn-com.akamaized.net,香港节点
+DOMAIN-SUFFIX,bytedapm.com,香港节点
+DOMAIN-SUFFIX,bytegecko-i18n.com,香港节点
+DOMAIN-SUFFIX,byteoversea.com,香港节点
+DOMAIN-SUFFIX,capcut.com,香港节点
+DOMAIN-SUFFIX,ibytedtos.com,香港节点
+DOMAIN-SUFFIX,ibyteimg.com,香港节点
+DOMAIN-SUFFIX,ipstatp.com,香港节点
+DOMAIN-SUFFIX,isnssdk.com,香港节点
+DOMAIN-SUFFIX,muscdn.com,香港节点
+DOMAIN-SUFFIX,musical.ly,香港节点
+DOMAIN-SUFFIX,sgpstatp.com,香港节点
+DOMAIN-SUFFIX,snssdk.com,香港节点
+DOMAIN-SUFFIX,tik-tokapi.com,香港节点
+DOMAIN-SUFFIX,tiktok.com,香港节点
+DOMAIN-SUFFIX,tiktokcdn-us.com,香港节点
+DOMAIN-SUFFIX,tiktokcdn.com,香港节点
+DOMAIN-SUFFIX,tiktokd.net,香港节点
+DOMAIN-SUFFIX,tiktokd.org,香港节点
+DOMAIN-SUFFIX,tiktokmusic.app,香港节点
+DOMAIN-SUFFIX,tiktokv.com,香港节点
+DOMAIN-SUFFIX,tiktokv.us,香港节点
+DOMAIN-SUFFIX,ttwebview.com,香港节点
+DOMAIN-KEYWORD,musical.ly,香港节点
+DOMAIN-KEYWORD,tiktok,香港节点
+USER-AGENT,TikTok*,香港节点
+#YouTube
+host, gstatic.com, 香港
+host, www.gstatic.com, 香港
