@@ -1,5 +1,34 @@
 #App store
 host,p14-buy.itunes.apple.com,proxy
+#TikTok
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com,DIRECT
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com,DIRECT
+DOMAIN,p16-tiktokcdn-com.akamaized.net,DIRECT
+DOMAIN-SUFFIX,bytedapm.com,DIRECT
+DOMAIN-SUFFIX,bytegecko-i18n.com,DIRECT
+DOMAIN-SUFFIX,byteoversea.com,DIRECT
+DOMAIN-SUFFIX,capcut.com,DIRECT
+DOMAIN-SUFFIX,ibytedtos.com,DIRECT
+DOMAIN-SUFFIX,ibyteimg.com,DIRECT
+DOMAIN-SUFFIX,ipstatp.com,DIRECT
+DOMAIN-SUFFIX,isnssdk.com,DIRECT
+DOMAIN-SUFFIX,muscdn.com,DIRECT
+DOMAIN-SUFFIX,musical.ly,DIRECT
+DOMAIN-SUFFIX,sgpstatp.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,tik-tokapi.com,DIRECT
+DOMAIN-SUFFIX,tiktok.com,DIRECT
+DOMAIN-SUFFIX,tiktokcdn-us.com,DIRECT
+DOMAIN-SUFFIX,tiktokcdn.com,DIRECT
+DOMAIN-SUFFIX,tiktokd.net,DIRECT
+DOMAIN-SUFFIX,tiktokd.org,DIRECT
+DOMAIN-SUFFIX,tiktokmusic.app,DIRECT
+DOMAIN-SUFFIX,tiktokv.com,DIRECT
+DOMAIN-SUFFIX,tiktokv.us,DIRECT
+DOMAIN-SUFFIX,ttwebview.com,DIRECT
+DOMAIN-KEYWORD,musical.ly,DIRECT
+DOMAIN-KEYWORD,tiktok,DIRECT
+USER-AGENT,TikTok*,DIRECT
 #WeChat
 DOMAIN,btrace.qq.com,DIRECT
 DOMAIN,dldir1.qq.com,DIRECT
@@ -43,3 +72,6 @@ DOMAIN-SUFFIX,wechatlegal.net,DIRECT
 DOMAIN-SUFFIX,wechatos.net,DIRECT
 USER-AGENT,WeChat*,DIRECT
 USER-AGENT,MicroMessenger*,DIRECT
+#YouTube
+host, gstatic.com, 香港
+host, www.gstatic.com, 香港
