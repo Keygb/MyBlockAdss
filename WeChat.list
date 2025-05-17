@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,wechatlegal.net,DIRECT
 DOMAIN-SUFFIX,wechatos.net,DIRECT
 USER-AGENT,WeChat*,DIRECT
 USER-AGENT,MicroMessenger*,DIRECT
+# 微博
+HOST-SUFFIX, uve.weibo.com, DIRECT
