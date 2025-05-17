@@ -49,5 +49,5 @@ DOMAIN-SUFFIX,e67repidwnfu7gcha.com,reject
 DOMAIN-SUFFIX,wuzbhjpvsf.com,reject
 DOMAIN-SUFFIX,a.realsrv.com,reject
 #微博
-HOST, huodong.weibo.cn, REJECT
-HOST-SUFFIX, biz.weibo.com, REJECT
+HOST, huodong.weibo.cn,reject
+HOST-SUFFIX, biz.weibo.com,reject
