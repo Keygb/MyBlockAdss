@@ -56,8 +56,8 @@ DOMAIN,mobads-logs.baidu.com,reject
 DOMAIN,nadvideo2.baidu.com,reject
 DOMAIN,nsclick.baidu.com,reject
 #BaiduTieba
-host, afd.baidu.com, reject
-host, mobads.baidu.com, reject
+host,afd.baidu.com, reject
+host,mobads.baidu.com, reject
 ＃Google
 DOMAIN-SUFFIX,doubleclick.net,reject
 DOMAIN-SUFFIX,googleadservices.com,reject
