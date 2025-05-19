@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,googleadsserving.cn,reject
 DOMAIN-SUFFIX,googlesyndication.com,reject
 DOMAIN-SUFFIX,googletagservices.com,reject
 DOMAIN,ads.youtube.com,reject
-#美团
+#Meituan
 host, flowplus.meituan.net, reject
 host-suffix, analytics.meituan.net, reject
 host-suffix, meituan.n, reject
