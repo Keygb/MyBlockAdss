@@ -1,3 +1,7 @@
 #App store
-host,p14-buy.itunes.apple.com,proxy
+host, p14-buy.itunes.apple.com,proxy
+host, iosapps.itunes.apple.com,proxy
+host, init.itunes.apple.com,proxy
+host, buy.itunes.apple.com,proxy
+host, appstoreconnect.apple.com,proxy
 host,missav.ai,proxy
