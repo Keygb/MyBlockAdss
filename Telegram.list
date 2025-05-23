@@ -1,4 +1,4 @@
-Telegram 
+#Telegram 
 HOST,api.imem.app,Telegram
 HOST,api.swiftgram.app,Telegram
 HOST-SUFFIX,cdn-telegram.org,Telegram
