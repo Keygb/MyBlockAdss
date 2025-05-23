@@ -1,7 +1,17 @@
 #App store
 host, p14-buy.itunes.apple.com
-host, iosapps.itunes.apple.com
-host, init.itunes.apple.com
-host, buy.itunes.apple.com
-host, appstoreconnect.apple.com
+HOST-SUFFIX,apple.com
+HOST-SUFFIX,itunes.apple.com
+HOST-SUFFIX,apps.apple.com
+HOST-SUFFIX,api-ios.itunes.apple.com
+HOST-SUFFIX,iosapps.itunes.apple.com
+HOST-SUFFIX,appsto.re
+HOST-SUFFIX,cdn-apple.com
+HOST-SUFFIX,mzstatic.com
+HOST-SUFFIX,isg-apple.com
+HOST-SUFFIX,aaplimg.com
+HOST-SUFFIX,akamaized.net
+HOST,iosapps.itunes.apple.com.akadns.net
+HOST,appldnld.apple.com.edgesuite.net
+HOST,appldnld.apple.com
 host,missav.ai
