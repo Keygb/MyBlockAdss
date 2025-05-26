@@ -1,44 +1,44 @@
 #WeChat
-HOST, apd-pcdnwxlogin.teg.tencent-cloud.net
-HOST, btrace.qq.com
-HOST, dl.wechat.com
-HOST, dldir1.qq.com
-HOST, sgfindershort.wechat.com
-HOST, sgilinkshort.wechat.com
-HOST, sglong.wechat.com
-HOST, sgminorshort.wechat.com
-HOST, sgquic.wechat.com
-HOST, sgshort.wechat.com
-HOST, slife.xy-asia.com
-HOST, soup.v.qq.com,WeChat
-HOST, tencentmap.wechat.com
-HOST, vweixinf.tc.qq.com
-HOST, weixin110.qq.com
-HOST, wup.imtt.qq.com
-HOST, wx.tenpay.com
-HOST, wxapp.tc.qq.com
-HOST, iot-tencent.com
-HOST, lbs.gtimg.com
-HOST, map.qq.com
-HOST, qlogo.cn
-HOST, qpic.cn
-HOST, servicewechat.com
-HOST, tenpay.com
-HOST, up-hl.3g.qq.com
-HOST, vweixinthumb.tc.qq.com
-HOST, wechat.com
-HOST, wechatlegal.net
-HOST, wechatos.net
-HOST, wechatpay.com
-HOST, weixin.com
-HOST, weixin.qq.com
-HOST, weixinbridge.com
-HOST, weixinsxy.com
-HOST, wx.gtimg.com
-HOST, wx.qq.com
-HOST, wxapp.tc.qq.com
-HOST, wxs.qq.com
-HOST, yun-hl.3g.qq.com
-USER, MicroMessenger*
-USER-AGENT, WeChat*
-IP-ASN, 132203
+HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat
+HOST,btrace.qq.com,WeChat
+HOST,dl.wechat.com,WeChat
+HOST,dldir1.qq.com,WeChat
+HOST,sgfindershort.wechat.com,WeChat
+HOST,sgilinkshort.wechat.com,WeChat
+HOST,sglong.wechat.com,WeChat
+HOST,sgminorshort.wechat.com,WeChat
+HOST,sgquic.wechat.com,WeChat
+HOST,sgshort.wechat.com,WeChat
+HOST,slife.xy-asia.com,WeChat
+HOST,soup.v.qq.com,WeChat
+HOST,tencentmap.wechat.com,WeChat
+HOST,vweixinf.tc.qq.com,WeChat
+HOST,weixin110.qq.com,WeChat
+HOST,wup.imtt.qq.com,WeChat
+HOST,wx.tenpay.com,WeChat
+HOST,wxapp.tc.qq.com,WeChat
+HOST,iot-tencent.com,WeChat
+HOST,lbs.gtimg.com,WeChat
+HOST,map.qq.com,WeChat
+HOST,qlogo.cn,WeChat
+HOST,qpic.cn,WeChat
+HOST,servicewechat.com,WeChat
+HOST,tenpay.com,WeChat
+HOST,up-hl.3g.qq.com,WeChat
+HOST,vweixinthumb.tc.qq.com,WeChat
+HOST,wechat.com,WeChat
+HOST,wechatlegal.net,WeChat
+HOST,wechatos.net,WeChat
+HOST,wechatpay.com,WeChat
+HOST,weixin.com,WeChat
+HOST,weixin.qq.com,WeChat
+HOST,weixinbridge.com,WeChat
+HOST,weixinsxy.com,WeChat
+HOST,wx.gtimg.com,WeChat
+HOST,wx.qq.com,WeChat
+HOST,wxapp.tc.qq.com,WeChat
+HOST,wxs.qq.com,WeChat
+HOST,yun-hl.3g.qq.com,WeChat
+USER-AGENT,MicroMessenger*,WeChat
+USER-AGENT,WeChat*,WeChat
+IP-ASN,132203,WeChat
