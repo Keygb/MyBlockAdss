@@ -1,28 +1,28 @@
 #Telegram 
-HOST,api.imem.app,Telegram
-HOST,api.swiftgram.app,Telegram
-HOST-SUFFIX,cdn-telegram.org,Telegram
-HOST-SUFFIX,comments.app,Telegram
-HOST-SUFFIX,contest.com,Telegram
-HOST-SUFFIX,graph.org,Telegram
-HOST-SUFFIX,legra.ph,Telegram
-HOST-SUFFIX,mbrx.app,Telegram
-HOST-SUFFIX,quiz.directory,Telegram
-HOST-SUFFIX,stel.com,Telegram
-HOST-SUFFIX,t.me,Telegram
-HOST-SUFFIX,tdesktop.com,Telegram
-HOST-SUFFIX,telega.one,Telegram
-HOST-SUFFIX,telegra.ph,Telegram
-HOST-SUFFIX,telegram-cdn.org,Telegram
-HOST-SUFFIX,telegram.dog,Telegram
-HOST-SUFFIX,telegram.me,Telegram
-HOST-SUFFIX,telegram.org,Telegram
-HOST-SUFFIX,telegram.space,Telegram
-HOST-SUFFIX,telegramdownload.com,Telegram
-HOST-SUFFIX,telesco.pe,Telegram
-HOST-SUFFIX,tg.dev,Telegram
-HOST-SUFFIX,tx.me,Telegram
-HOST-SUFFIX,usercontent.dev,Telegram
+HOST, api.imem.app,Telegram
+HOST, api.swiftgram.app,Telegram
+HOST, cdn-telegram.org,Telegram
+HOST, comments.app,Telegram
+HOST, contest.com,Telegram
+HOST, graph.org,Telegram
+HOST, legra.ph,Telegram
+HOST, mbrx.app,Telegram
+HOST, quiz.directory,Telegram
+HOST, stel.com,Telegram
+HOST, t.me,Telegram
+HOST, tdesktop.com,Telegram
+HOST, telega.one,Telegram
+HOST, telegra.ph,Telegram
+HOST, telegram-cdn.org,Telegram
+HOST, telegram.dog,Telegram
+HOST, telegram.me,Telegram
+HOST, telegram.org,Telegram
+HOST, telegram.space,Telegram
+HOST, telegramdownload.com,Telegram
+HOST, telesco.pe,Telegram
+HOST, tg.dev,Telegram
+HOST, tx.me,Telegram
+HOST, usercontent.dev,Telegram
 HOST-KEYWORD,nicegram,Telegram
 IP-CIDR,109.239.140.0/24,Telegram
 IP-CIDR,149.154.160.0/20,Telegram
