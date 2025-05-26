@@ -1,24 +1,24 @@
 #App store
 host, p14-buy.itunes.apple.com
-Host,iosapps.itunes.apple.com
-host,iosapps.itunes.apple.com.download.ks-cdn.co
-host-suffix, appstore.com
-host-suffix, icloud.com
-HOST-SUFFIX,apple.com
-HOST-SUFFIX,itunes.apple.com
-HOST-SUFFIX,apps.apple.com
-HOST-SUFFIX,api-ios.itunes.apple.com
-HOST-SUFFIX,iosapps.itunes.apple.com
-HOST-SUFFIX,appsto.re
-HOST-SUFFIX,cdn-apple.com
-HOST-SUFFIX,mzstatic.com
-HOST-SUFFIX,isg-apple.com
-HOST-SUFFIX,aaplimg.com
-HOST-SUFFIX,akamaized.net
-HOST,iosapps.itunes.apple.com.akadns.net
-HOST,appldnld.apple.com.edgesuite.net
-HOST,appldnld.apple.com
-HOST-SUFFIX, limbopro.com
-HOST-SUFFIX, missav.ws
-HOST-SUFFIX,missav.ai
-HOST-SUFFIX,missav.live
+Host, iosapps.itunes.apple.com
+host, iosapps.itunes.apple.com.download.ks-cdn.com
+host, appstore.com
+hos, icloud.com
+HOST, apple.com
+HOST, itunes.apple.com
+HOST, apps.apple.com
+HOST, api-ios.itunes.apple.com
+HOST, iosapps.itunes.apple.com
+HOST, appsto.re
+HOST, cdn-apple.com
+HOST, mzstatic.com
+HOST, isg-apple.com
+HOST, aaplimg.com
+HOST, akamaized.net
+HOST, iosapps.itunes.apple.com.akadns.net
+HOST, appldnld.apple.com.edgesuite.net
+HOST, appldnld.apple.com
+HOST, limbopro.com
+HOST, missav.ws
+HOST, missav.ai
+HOST, missav.live
