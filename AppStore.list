@@ -1,10 +1,16 @@
 #App store
-host, p14-buy.itunes.apple.com
-host, iosapps.itunes.apple.com.download.ks-cdn.com
+HOST, p14-buy.itunes.apple.com
+HOST, iosapps.itunes.apple.com.download.ks-cdn.com
 HOST, api-ios.itunes.apple.com
-HOST, akamaized.net
 HOST, iosapps.itunes.apple.com.akadns.net
+#filter_local
 HOST, limbopro.com
 HOST, missav.ws
 HOST, missav.ai
 HOST, missav.live
+HOST, 18av.mm-cg.com
+HOST, en.1pondo.tv
+HOST, app.iosr.cn
+HOST, xslist.org/zh
+HOST, cn.pornhub.com
+
