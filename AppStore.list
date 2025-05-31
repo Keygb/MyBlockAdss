@@ -1,8 +1,6 @@
 #AppStore
 host, p14-buy.itunes.apple.com
-host, api-ios.itunes.apple.com
-host, iosapps.itunes.apple.com.akadns.net
-host, iosapps.itunes.apple.com.download.ks-cdn.com
+Host, iosapps.itunes.apple.com = iosapps.itunes.apple.com.download.ks-cdn.com
 host, albert.apple.com 
 host, captive.apple.com 
 host, gs.apple.com 
