@@ -1,7 +1,7 @@
-#App store
+#AppStore
 host, p14-buy.itunes.apple.com
-host, api-ios.itunes.apple.com, proxy
-host, iosapps.itunes.apple.com.akadns.net, proxy
+host, api-ios.itunes.apple.com
+host, iosapps.itunes.apple.com.akadns.net
 host, iosapps.itunes.apple.com.download.ks-cdn.com
 host, albert.apple.com 
 host, captive.apple.com 
@@ -13,7 +13,7 @@ host, tbsc.apple.com
 host, time-ios.apple.com  
 host, time.apple.com 
 host, time-macos.apple.com 
-host,*.push.apple.com 
+host, *.push.apple.com 
 host, deviceenrollment.apple.com  
 host, deviceservices-external.apple.com 
 host, gdmf.apple.com 
@@ -22,7 +22,7 @@ host, iprofiles.apple.com
 host, mdmenrollment.apple.com 
 host, setup.icloud.com 
 host, vpp.itunes.apple.com
-host,*.appattest.apple.com 
+host, *.appattest.apple.com 
 host, axm-servicediscovery.apple.com 
 host, *.business.apple.com  
 host, *.school.apple.com  
