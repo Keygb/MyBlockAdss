@@ -29,3 +29,13 @@ DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, me.com
 DOMAIN-SUFFIX, mzstatic.com
 DOMAIN-SUFFIX, smoot.apple.cn
+#Filter Local
+host, limbopro.com
+host, missav.ws
+host, missav.ai
+host, missav.live
+host, 18av.mm-cg.com
+host, en.1pondo.tv
+host, app.iosr.cn
+host, xslist.org
+host, cn.pornhub.com
