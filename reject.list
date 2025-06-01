@@ -1,3 +1,104 @@
+# ======= A ======= #
+#安全浏览限制解除
+DOMAIN-KEYWORD, safebrowsing., REJECT
+DOMAIN-SUFFIX, u3.ucweb.com, REJECT
+DOMAIN, lookup.api.bsb.baidu.com, REJECT
+# ======= B ======= #
+# 百度
+DOMAIN-SUFFIX, pos.baidu.com, REJECT
+DOMAIN, mobads.baidu.com, REJECT
+IP-CIDR, 180.76.76.112/32, REJECT
+IP-CIDR, 180.76.76.200/32, REJECT
+#百度贴吧
+host,afd.baidu.com, reject
+host,mobads.baidu.com, reject
+# ======= D ======= #
+#滴滴出行
+HOST-SUFFIX, gwp.xiaojukeji.com, REJECT
+IP-CIDR, 116.85.1.22/32, REJECT
+IP-CIDR, 116.85.1.17/32, REJECT
+IP-CIDR, 116.85.1.0/32, REJECT
+IP-CIDR, 116.85.3.37/32, REJECT
+IP-CIDR, 116.85.3.25/32, REJECT
+IP-CIDR, 117.51.168.10/32, REJECT
+IP-CIDR, 117.51.169.4/32, REJECT
+IP-CIDR, 117.51.169.11/32, REJECT
+IP-CIDR, 123.207.209.39/32, REJECT
+IP-CIDR, 123.207.209.60/32, REJECT
+IP-CIDR, 139.199.240.12/32, REJECT
+IP-CIDR, 139.199.240.15/32, REJECT
+IP-CIDR, 162.14.157.2/32, REJECT
+IP-CIDR, 162.14.157.24/32, REJECT
+IP-CIDR, 157.255.76.17/32, REJECT
+IP-CIDR, 157.255.76.19/32, REJECT
+IP-CIDR, 157.255.76.9/32, REJECT
+IP-CIDR, 157.255.76.12/32, REJECT
+IP-CIDR, 157.255.76.15/32, REJECT
+IP-CIDR, 157.255.76.8/32, REJECT
+# DNS 无响应
+DOMAIN, adttrackingprd.hwwt8.com, REJECT
+# ======= F ======= #
+# 放松双眼
+DOMAIN, adservice.sigmob.cn, REJECT
+# ======= G ======= #
+#谷歌
+DOMAIN-SUFFIX,doubleclick.net,reject
+DOMAIN-SUFFIX,googleadservices.com,reject
+DOMAIN-SUFFIX,googleadsserving.cn,reject
+DOMAIN-SUFFIX,googlesyndication.com,reject
+DOMAIN-SUFFIX,googletagservices.com,reject
+DOMAIN,ads.youtube.com,reject
+# 工商银行
+DOMAIN-SUFFIX, mall.icbc.com.cn, REJECT
+DOMAIN, pageviewp.icbc.com.cn, REJECT
+# 广告联盟
+AND, ((OR,((DOMAIN-SUFFIX, amemv.com), (DOMAIN-SUFFIX, zijieapi.com))), (DOMAIN-KEYWORD,-misc-)), REJECT
+DOMAIN-KEYWORD, -ad-sign.byteimg.com, REJECT
+DOMAIN-KEYWORD, ads.g.doubleclick, REJECT
+DOMAIN-KEYWORD, asiad.byteactivity, REJECT
+DOMAIN-KEYWORD, pangolin-sdk-toutiao, REJECT
+DOMAIN-KEYWORD, pangolin.snssdk.com, REJECT
+DOMAIN-KEYWORD, pglstatp-toutiao, REJECT
+DOMAIN-KEYWORD, video-cn.snssdk.com, REJECT
+DOMAIN-SUFFIX, ads.linkedin.com, REJECT
+DOMAIN-SUFFIX, ads.vungle.com, REJECT
+DOMAIN-SUFFIX, adservice.google.com, REJECT
+DOMAIN-SUFFIX, adukwai.com, REJECT
+DOMAIN-SUFFIX, applovin.com, REJECT
+DOMAIN-SUFFIX, applvn.com, REJECT
+DOMAIN-SUFFIX, appsflyer.com, REJECT
+DOMAIN-SUFFIX, appsflyersdk.com, REJECT
+DOMAIN-SUFFIX, kuaishouzt.com, REJECT
+DOMAIN-SUFFIX, miaozhen.com, REJECT
+DOMAIN-SUFFIX, ubixioe.com, REJECT
+DOMAIN-SUFFIX, unityads.unity3d.com, REJECT
+DOMAIN-SUFFIX, v.smtcdns.com, REJECT
+DOMAIN, ad.zijieapi.com, REJECT
+DOMAIN, adapi.izuiyou.com, REJECT
+DOMAIN, adtracker.adfunlink.com, REJECT
+DOMAIN, dig.bdurl.net, REJECT
+DOMAIN, dsp-x.jd.com, REJECT
+DOMAIN, et.tanx.com, REJECT
+DOMAIN, gdfp.gifshow.com, REJECT
+DOMAIN, init.supersonicads.com, REJECT
+DOMAIN, janapi.jd.com, REJECT
+DOMAIN, lf-ad-ies.bytecdn.cn, REJECT
+DOMAIN, mercury-gateway.ixiaochuan.cn, REJECT
+DOMAIN, mon.toutiaocloud.com, REJECT
+DOMAIN, open.e.kuaishou.com, REJECT
+DOMAIN, open.kuaishou.com, REJECT
+DOMAIN, pagead2.googlesyndication-cn.com, REJECT
+DOMAIN, pagead2.googlesyndication.com, REJECT
+DOMAIN, sdk.e.qq.com, REJECT
+DOMAIN, tangram.e.qq.com, REJECT
+DOMAIN, ws.tapjoyads.com, REJECT
+DOMAIN, www.googleadservices.com, REJECT
+# ======= H ======= #
+# httpdns
+DOMAIN-KEYWORD, httpdns., REJECT
+DOMAIN-KEYWORD, httpdns-, REJECT
+DOMAIN, hdns.ksyun.com, REJECT
+# ======= I ======= #
 #爱奇艺
 host, api.iqiyi.com, reject
 host, cr-status.iqiyi.com, reject
@@ -44,50 +145,26 @@ IP-CIDR, 101.227.97.240/32, reject
 IP-CIDR, 101.227.200.11/32, reject
 IP-CIDR, 101.227.200.28/32, reject
 IP-CIDR, 124.192.153.42/32, reject
-#百度
-DOMAIN-SUFFIX,duapps.com,reject
-DOMAIN-SUFFIX,cpro.baidu.com,reject
-DOMAIN-SUFFIX,pos.baidu.com,reject
-DOMAIN,afd.baidu.com,reject
-DOMAIN,als.baidu.com,reject
-DOMAIN,duclick.baidu.com,reject
-DOMAIN,mobads.baidu.com,reject
-DOMAIN,mobads-logs.baidu.com,reject
-DOMAIN,nadvideo2.baidu.com,reject
-DOMAIN,nsclick.baidu.com,reject
-#百度贴吧
-host,afd.baidu.com, reject
-host,mobads.baidu.com, reject
-#滴滴出行
-HOST-SUFFIX, gwp.xiaojukeji.com, REJECT
-IP-CIDR, 116.85.1.22/32, REJECT
-IP-CIDR, 116.85.1.17/32, REJECT
-IP-CIDR, 116.85.1.0/32, REJECT
-IP-CIDR, 116.85.3.37/32, REJECT
-IP-CIDR, 116.85.3.25/32, REJECT
-IP-CIDR, 117.51.168.10/32, REJECT
-IP-CIDR, 117.51.169.4/32, REJECT
-IP-CIDR, 117.51.169.11/32, REJECT
-IP-CIDR, 123.207.209.39/32, REJECT
-IP-CIDR, 123.207.209.60/32, REJECT
-IP-CIDR, 139.199.240.12/32, REJECT
-IP-CIDR, 139.199.240.15/32, REJECT
-IP-CIDR, 162.14.157.2/32, REJECT
-IP-CIDR, 162.14.157.24/32, REJECT
-IP-CIDR, 157.255.76.17/32, REJECT
-IP-CIDR, 157.255.76.19/32, REJECT
-IP-CIDR, 157.255.76.9/32, REJECT
-IP-CIDR, 157.255.76.12/32, REJECT
-IP-CIDR, 157.255.76.15/32, REJECT
-IP-CIDR, 157.255.76.8/32, REJECT
-#谷歌
-DOMAIN-SUFFIX,doubleclick.net,reject
-DOMAIN-SUFFIX,googleadservices.com,reject
-DOMAIN-SUFFIX,googleadsserving.cn,reject
-DOMAIN-SUFFIX,googlesyndication.com,reject
-DOMAIN-SUFFIX,googletagservices.com,reject
-DOMAIN,ads.youtube.com,reject
-#美团
+# ======= J ======= #
+# 建设银行
+DOMAIN-KEYWORD, adv.ccb.com, REJECT
+# 京东
+DOMAIN, dns.jd.com, REJECT
+IP-CIDR, 101.124.19.122/32, REJECT
+IP-CIDR6, 2402:db40:5100:1011::5/128, REJECT
+# ======= K ======= #
+# 酷狗音乐
+DOMAIN, adserviceretry.kglink.cn, DIRECT
+DOMAIN, ads.service.kugou.com, REJECT
+DOMAIN, adserviceretry.kugou.com, REJECT
+#快手
+DOMAIN-SUFFIX,e.kuaishou.com,reject
+DOMAIN,js-ad.a.yximgs.com,reject
+# ======= M ======= #
+# 美团
+DOMAIN, maplocatesdksnapshot.d.meituan.net, REJECT
+DOMAIN, metrics-picture.d.meituan.net, REJECT
+IP-CIDR, 103.37.155.60/32, REJECT
 host, flowplus.meituan.net, reject
 host-suffix, analytics.meituan.net, reject
 host-suffix, meituan.n, reject
@@ -99,9 +176,6 @@ host-suffix, ad.e.waimai.sankuai.com, reject
 host-suffix, mads.meituan.com, reject
 host-suffix,dreport.meituan.net, reject
 host-suffix, d.meituan.net, reject
-#快手
-DOMAIN-SUFFIX,e.kuaishou.com,reject
-DOMAIN,js-ad.a.yximgs.com,reject
 #MissAV.com  
 DOMAIN-SUFFIX,trackwilltrk.com,reject
 DOMAIN-SUFFIX,rmhfrtnd.com,reject
@@ -125,11 +199,47 @@ DOMAIN-SUFFIX,mc7clurd09pla4nrtat7ion.com,reject
 DOMAIN-SUFFIX,e67repidwnfu7gcha.com,reject
 DOMAIN-SUFFIX,wuzbhjpvsf.com,reject
 DOMAIN-SUFFIX,a.realsrv.com,reject
-#pornhub.com  
+#Pornhub.com  
 DOMAIN-SUFFIX,etahub.com,reject
 DOMAIN-SUFFIX,evtubescms.phncdn.com,reject
+# ======= S ======= #
+# 数字联盟
+DOMAIN-SUFFIX, shuzilm.cn, REJECT
+# Speedtest
+DOMAIN-KEYWORD, -adsystem.com, REJECT
+DOMAIN, ads.pubmatic.com, REJECT
+DOMAIN, id.hadron.ad.gt, REJECT
+# ======= T ======= #
+# 腾讯
+DOMAIN-KEYWORD, trace.qq.com, REJECT
+DOMAIN-KEYWORD, trace.video.qq.com, REJECT
+DOMAIN-SUFFIX, gdt.qq.com, REJECT
+DOMAIN-SUFFIX, l.qq.com, REJECT
+DOMAIN, adsmind.gdtimg.com, REJECT
+DOMAIN, info4.video.qq.com, REJECT
+DOMAIN, info6.video.qq.com, REJECT
+DOMAIN, ios.video.mpush.qq.com, REJECT
+DOMAIN, otheve.beacon.qq.com, REJECT
+DOMAIN, pgdt.gtimg.cn, REJECT
+DOMAIN, pgdt.ugdtimg.com, REJECT
+DOMAIN, tmead.y.qq.com, REJECT
+DOMAIN, tmeadbak.y.qq.com, REJECT
+DOMAIN, tmeadcomm.y.qq.com, REJECT
+DOMAIN, tpns.qq.com, REJECT
+IP-CIDR, 47.110.187.87/32, REJECT
+# ======= W ======= #
+# 微信
+DOMAIN-SUFFIX, wxs.qq.com, REJECT
+DOMAIN, badjs.weixinbridge.com, REJECT
+DOMAIN, dns.weixin.qq.com.cn, REJECT
 #微博
 HOST, huodong.weibo.cn,reject
 HOST-SUFFIX, biz.weibo.com,reject
+# ======= X ======= #
+# 迅雷 解除版权限制
+#DOMAIN, hub5btmain.v6.shub.sandai.net, REJECT
+#DOMAIN, hub5emu.v6.shub.sandai.net, REJECT
+#DOMAIN, hub5idx.v6.shub.sandai.net, REJECT
+# ======= Z ======= #
 #中国移动
 IP-CIDR, 120.240.95.37/32, reject
