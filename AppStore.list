@@ -142,7 +142,7 @@ ip-cidr, 17.252.0.0/16
 ip-cidr, 17.57.144.0/22
 ip-cidr, 17.188.128.0/18
 ip-cidr , 17.188.20.0/23
-#filter_local
+#Filter Local
 host, limbopro.com
 host, missav.ws
 host, missav.ai
