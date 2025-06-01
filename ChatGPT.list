@@ -1,4 +1,4 @@
-#OpenAi
+#name=OpenAi
 DOMAIN, cdn.auth0.com
 DOMAIN, challenges.cloudflare.com
 DOMAIN, openaiapi-site.azureedge.net
