@@ -1,3 +1,4 @@
+#name=reject
 # ======= A ======= #
 #安全浏览限制解除
 DOMAIN-KEYWORD, safebrowsing., REJECT
