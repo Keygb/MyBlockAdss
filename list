@@ -1,3 +1,17 @@
+host, p14-buy.itunes.apple.com
+Host, iosapps.itunes.apple.com = iosapps.itunes.apple.com
+host, albert.apple.com 
+#Filter Local
+host, limbopro.com
+host, missav.ws
+host, missav.ai
+host, missav.live
+host, 18av.mm-cg.com
+host, en.1pondo.tv
+host, app.iosr.cn
+host, xslist.org
+host, cn.pornhub.com
+
 DOMAIN-SUFFIX, aaplimg.com
 DOMAIN-SUFFIX, apple-cloudkit.com
 DOMAIN-SUFFIX, apple-livephotoskit.com
