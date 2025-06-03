@@ -1,4 +1,4 @@
-#! name=filter local
+#!name = filter local
 #!desc = 解决苹果商店下载速度慢的问题
 host, p14-buy.itunes.apple.com
 Host, iosapps.itunes.apple.com=iosapps.itunes.apple.com
