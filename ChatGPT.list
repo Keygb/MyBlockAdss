@@ -1,11 +1,17 @@
 #!name = OpenAi
-DOMAIN, cdn.auth0.com
-DOMAIN, challenges.cloudflare.com
-DOMAIN, openaiapi-site.azureedge.net
-DOMAIN-SUFFIX, ai.com
-DOMAIN-SUFFIX, identrust.com
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, openaiapi-site.azureedge.net
-DOMAIN-SUFFIX, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN-SUFFIX, openaicom.imgix.net
-DOMAIN-SUFFIX, openaicomproductionae4b.blob.core.windows.net
+HOST, auth0.com,OpenAI
+HOST, challenges.cloudflare.com,OpenAI
+HOST, chatgpt.com,OpenAI
+HOST, client-api.arkoselabs.com,OpenAI
+HOST, events.statsigapi.net,OpenAI
+HOST, featuregates.org,OpenAI
+HOST, identrust.com,OpenAI
+HOST, intercom.io,OpenAI
+HOST, intercomcdn.com,OpenAI
+HOST, oaistatic.com,OpenAI
+HOST, oaiusercontent.com,OpenAI
+HOST, openai.com,OpenAI
+HOST, openaiapi-site.azureedge.net,OpenAI
+HOST, sentry.io,OpenAI
+HOST, stripe.com,OpenAI
+HOST, openai,OpenAI
