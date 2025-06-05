@@ -5,3 +5,14 @@ IP-ASN, 59930, 美国节点, no-resolve
 IP-ASN, 211157, 美国节点, no-resolve
 IP-CIDR, 5.28.192.0/18, 欧盟节点, no-resolve
 IP-CIDR, 109.239.140.0/24, 欧盟节点, no-resolve
+
+
+IP-CIDR, 149.154.175/53, 美国节点, no-resolve
+IP-CIDR, 149.154.175/51, 欧盟节点, no-resolve
+IP-CIDR, 149.154.175/100, 美国节点, no-resolve
+IP-CIDR, 149.154.167/91, 欧盟节点, no-resolve
+IP-CIDR, 91.108.56/130, 狮城节点, no-resolve
+
+
+IP-CIDR, 149.154.175/117, 美国节点, no-resolve
+IP-CIDR, 149.154.175/10, 美国节点, no-resolve
