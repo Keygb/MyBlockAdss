@@ -201,12 +201,13 @@ DOMAIN-SUFFIX,e67repidwnfu7gcha.com,reject
 DOMAIN-SUFFIX,wuzbhjpvsf.com,reject
 DOMAIN-SUFFIX,a.realsrv.com,reject
 #NB助手
-host,api-dsp.8ziben.com,reject
-host,sdk.zhangyuyidong.cn,reject
-DOMAIN,v66-ad.ndcjl.com,REJECT
-DOMAIN,api-events.8ziben.com,REJECT
-DOMAIN-SUFFIX,yximgs.com,REJECT
-DOMAIN-SUFFIX,adkwai.com,REJECT
+host, api-dsp.8ziben.com, reject
+host,sdk.zhangyuyidong.cn, reject
+DOMAIN, open.e.kuaishou.cn, REJECT
+DOMAIN, v66-ad.ndcjl.com, REJECT 
+DOMAIN, api-events.8ziben.com, REJECT
+DOMAIN-SUFFIX, yximgs.com, REJECT
+DOMAIN-SUFFIX, adkwai.com, REJECT
 #Pornhub.com  
 DOMAIN-SUFFIX,etahub.com,reject
 DOMAIN-SUFFIX,evtubescms.phncdn.com,reject
