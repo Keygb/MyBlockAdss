@@ -45,3 +45,20 @@ IP-ASN, 132203
 # Steam
 DOMAIN-SUFFIX, cm.steampowered.com
 DOMAIN-SUFFIX, steamserver.net
+# iCloud邮箱
+DOMAIN,imap.mail.me.com,DIRECT
+DOMAIN,smtp.mail.me.com,DIRECT
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,me.com,DIRECT
+# QQ邮箱
+DOMAIN, imap.qq.com
+DOMAIN, smtp.qq.com
+DOMAIN, pop.qq.com
+DOMAIN-SUFFIX, qq.com
+# Gmail
+DOMAIN, imap.gmail.com
+DOMAIN, smtp.gmail.com
+DOMAIN, pop.gmail.com
+DOMAIN-SUFFIX, gmail.com
+DOMAIN-SUFFIX, googlemail.com
+DOMAIN-SUFFIX, google.com
