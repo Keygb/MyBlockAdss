@@ -62,3 +62,5 @@ DOMAIN, pop.gmail.com
 DOMAIN-SUFFIX, gmail.com
 DOMAIN-SUFFIX, googlemail.com
 DOMAIN-SUFFIX, google.com
+# GeoIP China
+GEOIP, CN
