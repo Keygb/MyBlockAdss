@@ -162,6 +162,8 @@ DOMAIN, adserviceretry.kugou.com, REJECT
 DOMAIN-SUFFIX,e.kuaishou.com,reject
 DOMAIN,js-ad.a.yximgs.com,reject
 # ======= M ======= #
+# NB助手屏蔽更新
+DOMAIN,media-sxty-fy-home01.sx3oss.ctyunxs.cn,REJECT
 # 美团
 DOMAIN, maplocatesdksnapshot.d.meituan.net, REJECT
 DOMAIN, metrics-picture.d.meituan.net, REJECT
