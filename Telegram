@@ -1,0 +1,9 @@
+#TelegramDC
+ip-cidr, 141/11/91/3, 香港节点, no-resolve
+ip-cidr, 82/152/91/114, 台湾节点, no-resolve
+ip-cidr, 82/152/90/114, 台湾节点, no-resolve
+ip-cidr, 82/152/90/12, 台湾节点, no-resolve
+ip-cidr, 38/180/249/144, 新加坡节点, no-resolve
+ip-cidr, 213/218/254/189, 日本节点, no-resolve
+ip-cidr, 213/218/254/25,日本节点, no-resolve
+ip-cidr, 23/142/200/65,美国节点, no-resolve
