@@ -3,6 +3,7 @@
 host, p14-buy.itunes.apple.com
 Host, iosapps.itunes.apple.com=iosapps.itunes.apple.com
 #Filter Local
+DOMAIN-SUFFIX,twitter.com
 host, limbopro.com
 host, missav.ws
 host, missav.ai
