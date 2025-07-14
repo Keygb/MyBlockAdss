@@ -1,11 +1,11 @@
 #name = Streaming Media
 #ChatGDP
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com,Proxy
-DOMAIN-SUFFIX,auth0.openai.com,Proxy
-DOMAIN-SUFFIX,cdn.openai.com,Proxy
-DOMAIN-SUFFIX,oaistatic.com,Proxy
-DOMAIN-SUFFIX,platform.openai.com,Proxy
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,oaistatic.co
+DOMAIN-SUFFIX,platform.openai.com
 #Google
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,googleapis.com,Proxy
