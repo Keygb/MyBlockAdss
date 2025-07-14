@@ -2,16 +2,3 @@
 #!desc = 解决苹果商店下载速度慢的问题
 host, p14-buy.itunes.apple.com
 Host, iosapps.itunes.apple.com=iosapps.itunes.apple.com
-#推特分流
-DOMAIN-SUFFIX,twitter.com
-# 油管分流
-DOMAIN-SUFFIX, gstatic.com
-host, limbopro.com
-host, missav.ws
-host, missav.ai
-host, missav.live
-host, 18av.mm-cg.com
-host, en.1pondo.tv
-host, app.iosr.cn
-host, xslist.org
-host, cn.pornhub.com
