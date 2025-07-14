@@ -1,4 +1,15 @@
 #name = Streaming Media
+#ChatGDP
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com,Proxy
+DOMAIN-SUFFIX,auth0.openai.com,Proxy
+DOMAIN-SUFFIX,cdn.openai.com,Proxy
+DOMAIN-SUFFIX,oaistatic.com,Proxy
+DOMAIN-SUFFIX,platform.openai.com,Proxy
+#Google
+DOMAIN-SUFFIX,gstatic.com,Proxy
+DOMAIN-SUFFIX,googleapis.com,Proxy
+DOMAIN-SUFFIX,google.com,Proxy
 # Twitter
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,t.co
